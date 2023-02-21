@@ -5,7 +5,7 @@ Thank you for volunteering to be an instructor for this workshop. This is the in
 In this repository, you would find the following information:
 
 - **The workshop website**: [Azure Machine Learning: Responsible AI dashboard workshop](https://ruyakubu.github.io/rai-dashboard-workshop/).   This includes: the workshop objectives, use case definition, setups instructions for azure resources, and the Lab instructions.
-- **PowerPoint Presentation deck**.
+- **PowerPoint Presentation deck** with embedded video of presenter.
 - **Lab Discussion questions**.  These are discussion questions for the end of each lab.
 
 The overall structure of the workshop is to be engaging and interactive.  To achieve this, the following should be the format:
@@ -17,7 +17,11 @@ The overall structure of the workshop is to be engaging and interactive.  To ach
 
 
 Roles & Responsibility:
-**Instructor**: is the proctor that delivers the PowerPoint deck and facilitates the workshop
+
+- **Instructor**: is the proctor that facilitates the workshop.
+- **Presenter**:  The Powerpoint deck with the embedded video of Ruth Yakubu as the presenter should be as the main presentation deck (for compliance).  
+
+**NOTE**:  The slides without the deck should be used only be use as backup by the Instructor if there are network connectivity issues preventing the videos from being played.  It is importance not to make claims that the RAI dashboard will eliminate or solve all Responsible AI issues.
 
 Duration:  ~ 2hrs
 

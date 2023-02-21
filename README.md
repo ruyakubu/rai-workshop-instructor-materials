@@ -21,7 +21,7 @@ Roles & Responsibility:
 - **Instructor**: is the proctor that facilitates the workshop.
 - **Presenter**:  The Powerpoint deck with the embedded video of Ruth Yakubu as the presenter should be as the main presentation deck (for compliance).  
 
-**NOTE**:  The slides without the deck should be used only be use as backup by the Instructor if there are network connectivity issues preventing the videos from being played.  It is importance not to make claims that the RAI dashboard will eliminate or solve all Responsible AI issues.
+**NOTE**:  The slides without the video should be used only as backup by the Instructor if there are network connectivity issues preventing the videos from being played.  It is importance not to make claims that the RAI dashboard will eliminate or solve all Responsible AI issues.
 
 Duration:  ~ 2hrs
 
